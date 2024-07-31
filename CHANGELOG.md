@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.144.0](https://github.com/MetaCubeX/metacubexd/compare/v1.143.5...v1.144.0) (2024-07-31)
+
+
+### Features
+
+* custom table columns order for mobile ([#885](https://github.com/MetaCubeX/metacubexd/issues/885)) ([3fd6abb](https://github.com/MetaCubeX/metacubexd/commit/3fd6abb879b6aa4d3fa42b40210f39c2160d00c7))
+
 ## [1.143.5](https://github.com/MetaCubeX/metacubexd/compare/v1.143.4...v1.143.5) (2024-07-30)
 
 
